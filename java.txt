@@ -1,2 +1,3 @@
+hello this is merge conflict example in master
 hello this is my first java program
 stash example

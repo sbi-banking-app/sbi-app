@@ -1,3 +1,5 @@
+HEAD
 hello this is merge conflict example in master
+merge conflict check
 hello this is my first java program
 stash example
